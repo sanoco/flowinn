@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="MAVEN_REPOS/org/glassfish/jersey/core/jersey-client/2.23.2/jersey-client-2.23.2.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-aop-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-aspects-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-context-support-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-data-commons-core-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-data-jpa-1.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-expression-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-jdbc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-js-resources-2.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-ldap-core-1.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-orm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-security-acl-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-security-config-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-security-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-security-ldap-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-security-taglibs-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-security-web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-test-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-tx-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-web-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/spring-webmvc-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/lib/javaee-api-5.jar"/>
+	<classpathentry kind="var" path="MAVEN_REPOS/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
